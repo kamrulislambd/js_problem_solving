@@ -13,3 +13,15 @@ console.log(result);
 
 let myResult = Math.floor(myNumber);
 console.log(myResult);
+
+//Decimal to Integer using Math.round()
+
+let myRoundNumber = Math.round(myNumber);
+console.log(myRoundNumber);
+
+
+//Random Number generate using Math.random()
+let randomNumber = 10;
+let myOutput = Math.random() * 10;
+let randomInteger = Math.round(myOutput);
+console.log(randomInteger);
