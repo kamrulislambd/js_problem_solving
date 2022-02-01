@@ -28,6 +28,7 @@ function largestArray(numbers){
 }
 
 let listArray = [12, 24, 54, 22];
+
 const myLargest = largestArray(listArray);
 
 console.log(myLargest);
